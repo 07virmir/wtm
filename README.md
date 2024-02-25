@@ -1,3 +1,5 @@
+# What the Move
+
 ## Inspiration
 The inspiration behind this is sourced from our various teammates having recently subpar experiences at parties/friday night plans, be it when people don't end up at the same party due to lack of communication, or lack of planning.
 
