@@ -30,3 +30,5 @@ react
 - add firebase key from console 
 - run `npm i`
 - run `npm run ios/android`
+
+See More Info Here: https://devpost.com/software/wtmapp
